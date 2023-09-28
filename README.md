@@ -120,9 +120,11 @@ sqd deploy --org isminiz ./isminiz
 
 
 
+## 🟢 Log bakmak için  ( isminiz yazan yeri değiştirin )
 
-
-
+```shell
+npx sqd squid:logs isminiz@v1 -f
+```
 
 
 
