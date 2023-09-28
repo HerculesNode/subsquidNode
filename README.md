@@ -119,6 +119,14 @@ sqd deploy --org isminiz ./isminiz
 ![image](https://github.com/herculessx/subsquidNode/assets/101635385/69d5290a-1b48-4a94-b175-25c0b629b089)
 
 
+## 🟢 Suck sorunu ( isminiz kısmını değiştirin hesap isminiz ile )
+
+```shell
+sqd restart isminiz@v1
+```
+
+![image](https://github.com/herculessx/subsquidNode/assets/101635385/8af61c81-5c6c-4834-a69b-5a31ec5587a1)
+
 
 ## 🟢 Log bakmak için  ( isminiz yazan yeri değiştirin )
 
