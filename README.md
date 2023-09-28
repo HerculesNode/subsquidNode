@@ -103,7 +103,7 @@ Dashboard kısmına gidin ve ardından panel açılacak sync olmasını bekleyel
 ![image](https://github.com/herculessx/subsquidNode/assets/101635385/69a9a1a1-00f9-4671-ac49-1ebac38511a9)
 
 
-Ankr hata çözümü
+## 🟢 Ankr Hata Çözümü
 
 src/processor.ts  dosyasını açın chain bölümünde ankr göreceksiniz bunu Alchemy yada başka bir yerden aldığınız bir RPC ile değiştirin ve kaydedin
 
