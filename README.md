@@ -103,5 +103,26 @@ Dashboard kısmına gidin ve ardından panel açılacak sync olmasını bekleyel
 ![image](https://github.com/herculessx/subsquidNode/assets/101635385/69a9a1a1-00f9-4671-ac49-1ebac38511a9)
 
 
+Ankr hata çözümü
+
+src/processor.ts  dosyasını açın chain bölümünde ankr göreceksiniz bunu Alchemy yada başka bir yerden aldığınız bir RPC ile değiştirin ve kaydedin
+
+![image](https://github.com/herculessx/subsquidNode/assets/101635385/777ff06c-d610-4ff0-a760-808b852e797b)
+
+Ardından deploy etmemiz gerekiyor  Aşağıdaki kodu çalıştırın isminiz yazan yerlere klasör isminiz ne ise onu yazın 
+
+
+```shell
+sqd deploy --org isminiz ./isminiz
+```
+
+![image](https://github.com/herculessx/subsquidNode/assets/101635385/69d5290a-1b48-4a94-b175-25c0b629b089)
+
+
+
+
+
+
+
 
 
