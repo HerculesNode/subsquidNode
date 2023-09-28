@@ -85,8 +85,9 @@ npm install -g @subsquid/cli
 apt install git
 ```
 
+Init Squid directory olan kodu girin. isminizi yazınca otomatik oda değişiyor
 
-Burada isminizin olduğu kodu girin. Aşağıdaki gibi bir çıktı almanız laızm
+Burada isminizin olduğu kodu girin. Aşağıdaki gibi bir çıktı almanız lazım
 
 ![image](https://github.com/herculessx/subsquidNode/assets/101635385/91d69e8e-c3e6-478e-ae00-506e7912eb09)
 
