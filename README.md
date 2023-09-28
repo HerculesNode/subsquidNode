@@ -97,7 +97,10 @@ En alttaki deploy kodunu girin ve kurulum başlıyor.
 ![image](https://github.com/herculessx/subsquidNode/assets/101635385/bebf4c73-b9ac-460d-b29f-24e0478efd03)
 
 
-Dashboard kısmına gidin ve ardından panel açılacak sync olmasını bekleyelim şimdilik bu kadar
+Dashboard kısmına gidin ve ardından panel açılacak sync olmasını bekleyelim şimdilik bu kadar. Resimdeki gibi olması gerekiyor
+
+![image](https://github.com/herculessx/subsquidNode/assets/101635385/69a9a1a1-00f9-4671-ac49-1ebac38511a9)
+
 
 
 
