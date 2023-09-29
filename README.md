@@ -48,7 +48,7 @@ sudo npm install -g npm@10.1.0
 ```shell
 curl -sL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 ```
-Biraz bekleyelim 
+Biraz bekleyelim  (Bu kodu TestNetrun rehberinden alıntıladım. Teşekkürler kendilerine)
 <br><hr>
 
 
@@ -59,7 +59,7 @@ sudo apt-get install -y nodejs
 
 <hr>
 
-Bu adrese gidelim [ Dashboard](https://app.subsquid.io/squids/)   (Bu kısmı TestNetrun rehberinden alıntıladım. Teşekkürler kendilerine)
+Bu adrese gidelim [ Dashboard](https://app.subsquid.io/squids/)   
   
 1- Install the CLI
 
