@@ -59,7 +59,7 @@ sudo apt-get install -y nodejs
 
 <hr>
 
-Bu adrese gidelim [ Dashboard](https://app.subsquid.io/squids/)
+Bu adrese gidelim [ Dashboard](https://app.subsquid.io/squids/)   (Bu kısmı TestNetrun rehberinden alıntıladım. Teşekkürler kendilerine)
   
 1- Install the CLI
 
