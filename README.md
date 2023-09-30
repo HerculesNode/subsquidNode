@@ -100,7 +100,8 @@ En alttaki deploy kodunu girin ve kurulum başlıyor.
 
 Dashboard kısmına gidin ve ardından panel açılacak sync olmasını bekleyelim şimdilik bu kadar. Resimdeki gibi olması gerekiyor
 
-![image](https://github.com/herculessx/subsquidNode/assets/101635385/69a9a1a1-00f9-4671-ac49-1ebac38511a9)
+![image](https://github.com/herculessx/subsquidNode/assets/101635385/1e3f3097-b5f8-4879-a15e-5d10c653d695)
+
 
 
 ## 🟢 Ankr Hata Çözümü
